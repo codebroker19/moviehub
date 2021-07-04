@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/moviehub/static/css/main.bdd39ec1.chunk.css",
+    "main.js": "/moviehub/static/js/main.05c7cd60.chunk.js",
+    "main.js.map": "/moviehub/static/js/main.05c7cd60.chunk.js.map",
+    "runtime-main.js": "/moviehub/static/js/runtime-main.7528f674.js",
+    "runtime-main.js.map": "/moviehub/static/js/runtime-main.7528f674.js.map",
+    "static/js/2.9b96129e.chunk.js": "/moviehub/static/js/2.9b96129e.chunk.js",
+    "static/js/2.9b96129e.chunk.js.map": "/moviehub/static/js/2.9b96129e.chunk.js.map",
+    "index.html": "/moviehub/index.html",
+    "static/css/main.bdd39ec1.chunk.css.map": "/moviehub/static/css/main.bdd39ec1.chunk.css.map",
+    "static/js/2.9b96129e.chunk.js.LICENSE.txt": "/moviehub/static/js/2.9b96129e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7528f674.js",
+    "static/js/2.9b96129e.chunk.js",
+    "static/css/main.bdd39ec1.chunk.css",
+    "static/js/main.05c7cd60.chunk.js"
+  ]
+}
