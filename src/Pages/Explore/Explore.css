@@ -1,0 +1,18 @@
+.explore{
+    display: flex;
+    flex:1;
+    
+    
+}
+.button{
+    font-size:35px;
+    margin-left:15px;
+    
+}
+.MuiButton-containedPrimary {
+    
+    background-color:#A2DBFA;
+}
+.page {
+    bottom: 0;
+}

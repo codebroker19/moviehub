@@ -1,0 +1,24 @@
+*{
+    scroll-behavior: smooth;
+}
+.header{
+    width: 100%;
+    font-weight: 500;
+    justify-content: center;
+    display: flex;
+    font-family: 'Lato', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    font-size: 35px;
+    position:fixed;
+    z-index: 100;
+    background-color:#0A1931;
+    color: white;
+    top:0;
+    cursor: pointer;
+}
+
+@media (max-width:430px)
+{
+    .header{font-size: 25px;}
+}
